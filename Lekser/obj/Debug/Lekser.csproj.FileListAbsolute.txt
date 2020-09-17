@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Lekser\Lekser\bin\Debug\Lekser.exe.config
+C:\Users\Dell\source\repos\Lekser\Lekser\bin\Debug\Lekser.exe
+C:\Users\Dell\source\repos\Lekser\Lekser\bin\Debug\Lekser.pdb
+C:\Users\Dell\source\repos\Lekser\Lekser\obj\Debug\Lekser.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Lekser\Lekser\obj\Debug\Lekser.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Lekser\Lekser\obj\Debug\Lekser.exe
+C:\Users\Dell\source\repos\Lekser\Lekser\obj\Debug\Lekser.pdb
+D:\translatory\Lekser\Lekser\bin\Debug\Lekser.exe.config
+D:\translatory\Lekser\Lekser\bin\Debug\Lekser.exe
+D:\translatory\Lekser\Lekser\bin\Debug\Lekser.pdb
+D:\translatory\Lekser\Lekser\obj\Debug\Lekser.csprojAssemblyReference.cache
+D:\translatory\Lekser\Lekser\obj\Debug\Lekser.csproj.CoreCompileInputs.cache
+D:\translatory\Lekser\Lekser\obj\Debug\Lekser.exe
+D:\translatory\Lekser\Lekser\obj\Debug\Lekser.pdb
